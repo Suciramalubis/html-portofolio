@@ -147,12 +147,12 @@
 }
 @media screen and (max-width:300px){
     .home-section{
-        height: 170vh;
+        height: 270vh;
     }
 }
 @media screen and (max-width:250px){
     .home-section{
-        height: 200vh;
+        height: 100vh;
     }
 }
 /* home content */
@@ -214,9 +214,9 @@
         height: 130vh;
     }
 }
-@media screen and (max-width:200px){
+@media screen and (max-width:100px){
     #resume{
-        height: 130vh;
+        height: 100vh;
     }
 }
 /* resume */
