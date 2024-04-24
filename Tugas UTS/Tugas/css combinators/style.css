@@ -1,0 +1,14 @@
+h1, h2 {
+    color: blueviolet
+  }
+  div p {
+      color: red
+  }
+  div ul {
+    li{ color:blue}
+    li.done { color:green}
+  }
+  div + ul {
+    p.done{ color : black}
+    p{ color: black}
+  }
